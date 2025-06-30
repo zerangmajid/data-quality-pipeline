@@ -1,0 +1,6 @@
+order_id,user_id,amount,status
+1001,1,250,completed
+1002,2,0,failed
+1003,,120,completed
+1004,3,-50,refunded
+1005,4,800,completed
